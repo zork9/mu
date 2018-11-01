@@ -33,4 +33,4 @@ exists: https://github.com/zoffixznet/perl6-Acme-Advent-Highlighter
 28:
 29:
 30: 
-31: zork9: The Holy Ghost : Mathx::Stat should compile now. It is a package of fast code math for statistics. It is based on distributions of probabilities and calculates Estimate,Variance,Covariance, Correlation, Bayes if you like for multi-variate systems. 
+31: zork9: "Mathx::Stat a review of a fast statisics package -- The Holy Ghost"
